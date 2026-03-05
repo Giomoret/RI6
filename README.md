@@ -1,2 +1,1 @@
-# RI6
-
+RI6 - Programação Orientada a Objetos
